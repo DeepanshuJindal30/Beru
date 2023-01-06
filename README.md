@@ -1,5 +1,7 @@
 # Beru
 
+Beru is a personal voice assistant designed to help users streamline their daily tasks and access information quickly and easily. With Beru, users can simply speak their requests or commands, and Beru will respond with the requested information or perform the desired action.
+
 The script starts by importing the necessary libraries:
 
 1. **datetime** is imported for manipulating dates and times.
